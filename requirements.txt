@@ -1,0 +1,1 @@
+mysql-connector-python>=8.3.0\npython-dotenv>=1.0.1\npandas>=2.2.0\nnumpy>=1.26.0\nmatplotlib>=3.8.0\n
